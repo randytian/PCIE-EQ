@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Work_ZX\For_EQ\PCIEEQ\PEMCU_T1.uvproj
+Project File Date:  07/17/2017
+
+<h2>Output:</h2>
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'PEMCU'
+linking...
+Program Size: data=17.0 xdata=1522 code=5032
+creating hex file from "PEMCU_EQ_031716"...
+User command #1: D:\Work_ZX\For_EQ\PCIEEQ\reformated.bat
